@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d047da38-af1e-4a35-8082-3122a6d1c4da" name="Changes" comment="" />
+    <list default="true" id="d047da38-af1e-4a35-8082-3122a6d1c4da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/29_use_module_library/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_use_module_library/tmsangdev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_class_and_object/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_quiz/Quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_quiz/multiple_choice_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phone_book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="38SQ8nd4qjBALQe30PTyLjdbMHa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,20 +47,48 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2D_array.executor": "Run",
+    "Python.Quiz.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.comment.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.exception.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.guess.executor": "Run",
     "Python.hello-world.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.if_and.executor": "Run",
     "Python.input.executor": "Run",
     "Python.list.executor": "Run",
     "Python.list_functions.executor": "Run",
+    "Python.multiple_choice_quiz.executor": "Run",
     "Python.number.executor": "Run",
+    "Python.power.executor": "Run",
+    "Python.read.executor": "Run",
+    "Python.return.executor": "Run",
     "Python.string.executor": "Run",
     "Python.string_format.executor": "Run",
+    "Python.tmsangdev.executor": "Run",
+    "Python.translator.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.white.executor": "Run",
+    "Python.write.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/30_class_and_object" />
+      <recent name="$PROJECT_DIR$/quiz" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="hello-world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-tutorials" />
@@ -94,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string" />
         <item itemvalue="Python.hello-world" />
+        <item itemvalue="Python.string" />
       </list>
     </recent_temporary>
   </component>

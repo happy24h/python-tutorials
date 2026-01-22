@@ -1,0 +1,5 @@
+phone_book = open("phone_book.txt", "a")
+phone_book.write("\nSáng - 09812345xx")
+new_html = open("index.html", "w")
+new_html.write("<p>Hello world</p>")
+phone_book.close()
